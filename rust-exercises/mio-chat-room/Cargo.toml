@@ -1,0 +1,7 @@
+[package]
+name = "mio_chat_room"
+version = "0.1.0"
+authors = ["loggerhead <lloggerhead@gmail.com>"]
+
+[dependencies]
+mio = "0.4"
